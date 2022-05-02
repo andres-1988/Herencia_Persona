@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1620537719 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\src\casa.cpp
+	<iostream>
+	<cstring>
+	"Casa.h"
+	"Inmueble.h"
+
+1620537719 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\include\casa.h
+	<Inmueble.h>
+
+1620542307 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\main.cpp
+	<iostream>
+	"Casa.h"
+	<Quinta.h>
+	<Local.h>
+	<Departamento.h>
+	"Terreno.h"
+
+1620434954 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\include\inmueble.h
+
+1620541916 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\src\inmueble.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Inmueble.h"
+
+1620535840 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\src\quinta.cpp
+	<iostream>
+	<cstring>
+	"Quinta.h"
+	"Casa.h"
+
+1620535444 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\include\quinta.h
+	"Casa.h"
+
+1620539229 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\src\departamento.cpp
+	<iostream>
+	<cstring>
+	"Departamento.h"
+	"Casa.h"
+
+1620538219 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\include\departamento.h
+	<Casa.h>
+
+1620539325 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\src\local.cpp
+	<iostream>
+	<cstring>
+	"Local.h"
+	"Inmueble.h"
+
+1620539563 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\include\local.h
+	"Inmueble.h"
+
+1620540203 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\src\terreno.cpp
+	<iostream>
+	<cstring>
+	"Terreno.h"
+
+1620540229 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\tp 3 herencia y composicion\herencia\include\terreno.h
+	"Inmueble.h"
+
+1620537719 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\src\casa.cpp
+	<iostream>
+	<cstring>
+	"Casa.h"
+	"Inmueble.h"
+
+1620537719 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\include\casa.h
+	<Inmueble.h>
+
+1620434954 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\include\inmueble.h
+
+1620539229 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\src\departamento.cpp
+	<iostream>
+	<cstring>
+	"Departamento.h"
+	"Casa.h"
+
+1620538219 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\include\departamento.h
+	<Casa.h>
+
+1620598617 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\src\inmueble.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Inmueble.h"
+
+1620539325 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\src\local.cpp
+	<iostream>
+	<cstring>
+	"Local.h"
+	"Inmueble.h"
+
+1620539563 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\include\local.h
+	"Inmueble.h"
+
+1620535840 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\src\quinta.cpp
+	<iostream>
+	<cstring>
+	"Quinta.h"
+	"Casa.h"
+
+1620535444 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\include\quinta.h
+	"Casa.h"
+
+1620540203 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\src\terreno.cpp
+	<iostream>
+	<cstring>
+	"Terreno.h"
+
+1620540229 c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\include\terreno.h
+	"Inmueble.h"
+
+1620598466 source:c:\users\pablo ezequiel caero\desktop\tecnicatura en programación\laboratorio de computación 2\composicion\ejercicio 3 de clases\herencia\main.cpp
+	<iostream>
+	"Casa.h"
+	<Quinta.h>
+	<Local.h>
+	<Departamento.h>
+	"Terreno.h"
+
+1620587920 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\main.cpp
+	<iostream>
+	"Casa.h"
+	<Quinta.h>
+	<Local.h>
+	<Departamento.h>
+	"Terreno.h"
+
+1620587920 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\include\casa.h
+	<Inmueble.h>
+
+1620587920 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\include\inmueble.h
+
+1620587920 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\include\quinta.h
+	"Casa.h"
+
+1620587920 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\include\local.h
+	"Inmueble.h"
+
+1620587920 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\include\departamento.h
+	<Casa.h>
+
+1620587920 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\include\terreno.h
+	"Inmueble.h"
+
+1620587922 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\src\casa.cpp
+	<iostream>
+	<cstring>
+	"Casa.h"
+	"Inmueble.h"
+
+1620587922 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\src\departamento.cpp
+	<iostream>
+	<cstring>
+	"Departamento.h"
+	"Casa.h"
+
+1620587922 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\src\inmueble.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Inmueble.h"
+
+1620587922 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\src\local.cpp
+	<iostream>
+	<cstring>
+	"Local.h"
+	"Inmueble.h"
+
+1620587922 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\src\quinta.cpp
+	<iostream>
+	<cstring>
+	"Quinta.h"
+	"Casa.h"
+
+1620587922 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\herencia\herencia\src\terreno.cpp
+	<iostream>
+	<cstring>
+	"Terreno.h"
+
